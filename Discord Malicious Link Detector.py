@@ -4,10 +4,10 @@ import requests
 import os
 
 # Replace with your own Discord bot token
-TOKEN = ''
+TOKEN = 'your token here'
 
 # Replace with your own VirusTotal API key
-VIRUSTOTAL_API_KEY = ''
+VIRUSTOTAL_API_KEY = 'your token here'
 
 # Create the Discord bot
 intents = discord.Intents.all()
